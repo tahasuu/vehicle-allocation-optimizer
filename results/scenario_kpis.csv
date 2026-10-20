@@ -1,0 +1,4 @@
+scenario,total_cost_$,transport_$,lost_margin_$,vehicles_shipped,trucks,truck_utilization,overall_fill,min_dealer_fill,mip_gap
+Base week,561691,339691,222000,896,114,0.982,0.926,0.727,0.0008
+Hybrid/EV surge +25%,1076526,319526,757000,896,116,0.966,0.785,0.703,0.0009
+San Antonio DC -40%,863917,302317,561600,794,103,0.964,0.82,0.704,0.0009
